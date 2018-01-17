@@ -10,4 +10,5 @@ Thank you to the noun project for hosting awesome icons and allowing us to use t
 - forest by No More Heroes from the Noun Project  
 - finance by shashank singh from the Noun Project  
 - Tree by Olivier M. from the Noun Project  
+
 Speical thanks to my friend Arslan Arshad for answering my questions about React-Native and programming in general.  
